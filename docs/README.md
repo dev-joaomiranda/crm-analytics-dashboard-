@@ -15,11 +15,11 @@ Criar um conjunto de dados, modelo relacional e dashboards em Power BI para resp
 
 - **Banco de dados / dados**: CSV + scripts SQL (PostgreSQL ou MySQL)
 - **BI**: Power BI (modelagem de dados, DAX, dashboards)
-- **Linguagem de apoio (opcional)**: Python para geração de dados fictícios
+- **Linguagem de apoio (opcional)**: Python para geração de dados
 
 ## Estrutura do repositório
 
-data/               # arquivos CSV com dados fictícios
+data/               # arquivos CSV com dados
 
 sql/                # scripts de criação de tabelas e KPIs
 
