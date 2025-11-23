@@ -1,0 +1,6 @@
+id_cliente,nome,segmento,cidade,estado,data_cadastro,canal_origem
+1,Ana Souza,Premium,Brasília,DF,2024-01-10,Instagram
+2,Carlos Lima,Standard,Goiânia,GO,2024-02-05,Facebook Ads
+3,Mariana Alves,Premium,Taguatinga,DF,2024-02-20,Indicação
+4,João Ribeiro,Standard,Brasília,DF,2024-03-01,Google Ads
+5,Fernanda Costa,Premium,Anápolis,GO,2024-03-10,LinkedIn
