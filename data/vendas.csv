@@ -1,0 +1,6 @@
+id_venda,id_cliente,id_campanha,data_venda,valor_venda,produto
+1,1,1,2024-01-15,1200.5,Plano CRM Pro
+2,3,3,2024-03-10,2500,Plano Analytics Enterprise
+3,2,2,2024-02-18,900,Plano CRM Básico
+4,5,2,2024-03-20,1800,Plano CRM Pro
+5,4,3,2024-03-25,1500,Plano Analytics Standard
